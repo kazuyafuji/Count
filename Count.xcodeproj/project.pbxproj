@@ -14,6 +14,7 @@
 		C5DB3C3B1CE4968800EE15EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5DB3C391CE4968800EE15EC /* LaunchScreen.storyboard */; };
 		C5DB3C461CE4968800EE15EC /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5DB3C451CE4968800EE15EC /* CountTests.swift */; };
 		C5DB3C511CE4968800EE15EC /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5DB3C501CE4968800EE15EC /* CountUITests.swift */; };
+		C5DB3C611CE49C3E00EE15EC /* 背景.png in Resources */ = {isa = PBXBuildFile; fileRef = C5DB3C601CE49C3E00EE15EC /* 背景.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C5DB3C4C1CE4968800EE15EC /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5DB3C501CE4968800EE15EC /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		C5DB3C521CE4968800EE15EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5DB3C601CE49C3E00EE15EC /* 背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "背景.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		C5DB3C2F1CE4968800EE15EC /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				C5DB3C601CE49C3E00EE15EC /* 背景.png */,
 				C5DB3C301CE4968800EE15EC /* AppDelegate.swift */,
 				C5DB3C321CE4968800EE15EC /* ViewController.swift */,
 				C5DB3C341CE4968800EE15EC /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5DB3C611CE49C3E00EE15EC /* 背景.png in Resources */,
 				C5DB3C3B1CE4968800EE15EC /* LaunchScreen.storyboard in Resources */,
 				C5DB3C381CE4968800EE15EC /* Assets.xcassets in Resources */,
 				C5DB3C361CE4968800EE15EC /* Main.storyboard in Resources */,
